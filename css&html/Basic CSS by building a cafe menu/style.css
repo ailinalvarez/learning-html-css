@@ -31,10 +31,11 @@ body {
     max-width: 500px;
   }
   
-  img {
+  iimg {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: -25px
   }
 
 hr {
